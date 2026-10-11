@@ -1,0 +1,10 @@
+# Virtual environment
+.venv/
+ 
+# Cache Python
+_pycache_/
+*.pyc
+ 
+# Berkas rahasia dan pengaturan editor
+.env
+.vscode/
